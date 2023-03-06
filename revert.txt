@@ -1,3 +1,7 @@
+<<<<<<< HEAD
 a
 b
 c
+=======
+a
+>>>>>>> parent of e82c146 (insert 'b')
